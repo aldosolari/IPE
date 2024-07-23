@@ -7,7 +7,7 @@ output: markdowntemplates::minimal
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Ca' Foscari University of Venice, Bachelor's Degree Programme in Philosophy, International and Economic Studies. Introduction to Probability for Economics.
+Ca' Foscari University of Venice, Bachelor's Degree Programme in Philosophy, International and Economic Studies. 
 
 ## Exam
 
@@ -18,9 +18,9 @@ The oral examination is mandatory if the written mark is 27/30 or higher.
 
 ## Contents
 
-1. Descriptive Statistics
-2. Probability and Random Variables
-3. Statistical Inference
+1. [Descriptive Statistics](docs/intro/1_descriptive)
+2. [Probability and Random Variables](docs/intro/2_probability)
+3. [Statistical Inference](docs/intro/3_inference)
 
 ## Expected learning outcomes
 
@@ -33,9 +33,7 @@ Agresti, A., Franklin, C.A., and Klingenberg,
 B. (2017). Statistics: the art and science of learning from
 data. Pearson, 4th edition (or 2021 5th edition)
 
-## Contents
-
-
+## Weekly Contents
 
 ### Week 1
 
@@ -57,6 +55,9 @@ EXERCISES <br>
 2.5 Practicing the Basics: 2.62, 2.64 - 2.71, 2.73 - 2.79 <br> 
 Chapter problems: 2.90 - 2.92, 2.103, 2.112, 2.119 <br> 
 3.1 Practicing the Basics: 3.1 - 3.3, 3.5 - 3.9 <br> 
+
+IMAGES <br>
+
 
 ### Week 2
 
