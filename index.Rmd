@@ -56,6 +56,9 @@ EXERCISES <br>
 Chapter problems: 2.90 - 2.92, 2.103, 2.112, 2.119 <br> 
 3.1 Practicing the Basics: 3.1 - 3.3, 3.5 - 3.9 <br> 
 
+DATA <br>
+[Titanic](https://github.com/aldosolari/IPE/blob/main/docs/titanic.csv)
+
 IMAGES <br>
 
 
