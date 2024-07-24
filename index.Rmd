@@ -18,9 +18,9 @@ The oral examination is mandatory if the written mark is 27/30 or higher.
 
 ## Contents
 
-1. [Descriptive Statistics](docs/intro/1_descriptive.pdf)
-2. [Probability and Random Variables](docs/intro/2_probability.pdf)
-3. [Statistical Inference](docs/intro/3_inference.pdf)
+1. [Descriptive Statistics](docs/1_descriptive.pdf)
+2. [Probability and Random Variables](docs/2_probability.pdf)
+3. [Statistical Inference](docs/3_inference.pdf)
 
 ## Expected learning outcomes
 
