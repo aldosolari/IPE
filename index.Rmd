@@ -177,3 +177,6 @@ radarchart(data, centerzero=T, axistype=1, axislabcol = "grey", cglcol = "grey",
 
 See the [Smart Learning Design 25](https://www.metid.polimi.it/en/)  method for details.
 
+## Acknowledgement
+
+I would like to thank Professor [Stefano Tonnellato](https://www.unive.it/data/persone/5592702) for providing all the course material and the structure of the course. The slides used in the course were generously shared by Stefano, with minor modifications made by me. Any typos or errors that may exist are solely my responsibility.
