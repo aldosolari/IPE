@@ -60,7 +60,7 @@ DATA <br>
 [Titanic](https://github.com/aldosolari/IPE/blob/main/docs/titanic.csv)
 
 IMAGES <br>
-[Graphical summaries](https://github.com/aldosolari/IPE/blob/main/docs/images_titanic.pdf)
+[Graphical summaries](images_titanic.pdf)
 
 
 ### Week 2
@@ -92,7 +92,7 @@ DATA <br>
 [Galton](https://www.randomservices.org/random/data/Galton.html)
 
 IMAGES <br>
-[Regression](https://github.com/aldosolari/IPE/blob/main/docs/images_galton.pdf)
+[Regression](docs/images_galton.pdf)
 
 
 ### Week 3
