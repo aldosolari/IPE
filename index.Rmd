@@ -60,8 +60,9 @@ DATA <br>
 [Titanic](https://github.com/aldosolari/IPE/blob/main/docs/titanic.csv)
 
 IMAGES <br>
-[Graphical summaries](images_titanic.pdf)
-
+[Graphical summaries](images_titanic.pdf) <br>
+[3.2 Distribution of Birth Weights](docs/images_galton.pdf) <br>
+From Spiegelhalter, D. (2019). The art of statistics: Learning from data. Penguin UK.
 
 ### Week 2
 
