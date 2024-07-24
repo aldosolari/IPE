@@ -92,7 +92,9 @@ DATA <br>
 [Galton](https://www.randomservices.org/random/data/Galton.html)
 
 IMAGES <br>
-[Regression](docs/images_galton.pdf)
+[2.6 Pearson Correlation Coefficients of 0](docs/images_correlation.pdf) <br>
+[5.1 Scatter of Sons’ Heights v. Fathers’ Heights](docs/images_galton.pdf) <br>
+From Spiegelhalter, D. (2019). The art of statistics: Learning from data. Penguin UK.
 
 
 ### Week 3
