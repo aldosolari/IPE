@@ -60,9 +60,7 @@ DATA <br>
 [Titanic](https://github.com/aldosolari/IPE/blob/main/docs/titanic.csv)
 
 IMAGES <br>
-[Graphical summaries](images_titanic.pdf) <br>
-[3.2 Distribution of Birth Weights](docs/images_galton.pdf) <br>
-From Spiegelhalter, D. (2019). The art of statistics: Learning from data. Penguin UK.
+[Graphical summaries](docs/image_titanic.pdf) <br>
 
 ### Week 2
 
@@ -93,8 +91,8 @@ DATA <br>
 [Galton](https://www.randomservices.org/random/data/Galton.html)
 
 IMAGES <br>
-[2.6 Pearson Correlation Coefficients of 0](docs/images_correlation.pdf) <br>
-[5.1 Scatter of Sons’ Heights v. Fathers’ Heights](docs/images_galton.pdf) <br>
+[2.6 Pearson Correlation Coefficients of 0](docs/image_correlation.pdf) <br>
+[5.1 Scatter of Sons’ Heights v. Fathers’ Heights](docs/image_galton.pdf) <br>
 From Spiegelhalter, D. (2019). The art of statistics: Learning from data. Penguin UK.
 
 
