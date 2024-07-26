@@ -157,9 +157,9 @@ The following radar chart defines the percentage weight and time allocation of e
 
 ```{r, echo=FALSE}
 library(fmsb)
-data <- as.data.frame(matrix( c(40,20,20,20,0,0,0,0) , ncol=8))
+data <- as.data.frame(matrix( c(40,20,30,10,0,0,0,0) , ncol=8))
 colnames(data) <- c("Low-Interactivity Content" , 
-                    "Reworking of Content" ,
+                    "Content re-elaboration" ,
                     "Application" , 
                     "Retrieval" , 
                     "Reflection and Metacognition", 
@@ -173,6 +173,10 @@ radarchart(data, centerzero=T, axistype=1, axislabcol = "grey", cglcol = "grey",
            pcol = "#00AFBB", pfcol = scales::alpha("#00AFBB", 0.5), plwd = 2, plty = 1)
 ```
 
+Low interactivity content (40%, 60h): lectures, book studying <br>
+Content re-elaboration (20%, 30h): summaries, outlines <br>
+Application (30%, 45h): exercises <br>
+Retrieval (10%, 15h): quizzes <br>
 
 See the [Smart Learning Design 25](https://www.metid.polimi.it/en/)  method for details.
 
