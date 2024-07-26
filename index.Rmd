@@ -60,7 +60,7 @@ DATA <br>
 [Titanic](https://github.com/aldosolari/IPE/blob/main/docs/titanic.csv)
 
 IMAGES <br>
-[Graphical summaries](docs/images_titanic.pdf) <br>
+[Numerical and Graphical summaries](docs/images_titanic.pdf) <br>
 
 ### Week 2
 
